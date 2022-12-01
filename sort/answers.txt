@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort.
+
+How do you know?: It is the fastest algorithm to scan a sorted array, i.e. Big Omega of (n).
+
+sort2 uses: Merge sort.
+
+How do you know?: It sorts bigger arrays in less time, i.e. Big Theta of (n log n).
+
+sort3 uses: Selection sort.
+
+How do you know?: It spends the most time on sorting all of the arrays on average, i.e. Big Theta of (n^2).
